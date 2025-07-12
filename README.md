@@ -20,8 +20,8 @@ Analyze Airbnb listing data to explore pricing patterns, availability distributi
   - Avg. Minimum Nights by Room Type (Bar)
 - **Slicers**: Neighbourhood Group, Room Type, Price Category, Booking Status
 
-## 📂 Folder Structure
-Airbnb-Booking-Dashboard/  
+## Folder Structure
+```Airbnb-Booking-Dashboard/  
 ├── README.md  
 ├── Data/  
 │   └── AB_NYC_2019.csv  
@@ -31,3 +31,11 @@ Airbnb-Booking-Dashboard/
 │   └── 03_Final_Dashboard.xlsx   
 ├── Report/  
 │   └── Airbnb_Dashboard_Report.pdf
+```
+## Conclusion
+
+This project demonstrates how Excel can be used as a powerful tool for transforming raw data into meaningful insights through dashboarding and visualization.  
+By analyzing Airbnb booking trends across New York City, this project uncovers patterns in pricing, availability, and customer preferences.
+The final dashboard is designed to help stakeholders quickly identify high-performing areas, optimize pricing strategies, and understand demand behavior in the hospitality domain.
+This methodology can be applied to similar datasets in travel, hospitality, or e-commerce analytics.
+
